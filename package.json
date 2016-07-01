@@ -1,0 +1,12 @@
+{
+  "name": "es6-course",
+  "version": "1.0.0",
+  "description": "ES6 course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "babel": "babel src --out-file js/main.js -w"
+  },
+  "author": "Guilherme Rodrigues",
+  "license": "ISC"
+}
